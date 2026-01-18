@@ -18,3 +18,14 @@ __pycache__/
 # macOS
 .DS_Store
 
+.classpath
+.part-*.crc
+_SUCCESS
+._SUCCESS.crc
+.project
+part-r*
+part-*
+
+# Heavyweight files
+MonthlyWaterConsumption.txt
+Purchases.txt
