@@ -1,0 +1,16 @@
+MID1,Cust2,Yes
+MID1,Cust3,Yes
+MID2,Cust2,No
+MID2,Cust3,Yes
+MID4,Cust1,No
+MID4,Cust3,No
+MID5,Cust1,Yes
+MID1,Cust4,Yes
+MID2,Cust4,Yes
+MID3,Cust4,Yes
+MID4,Cust4,Yes
+MID5,Cust4,Yes
+MID30,Cust1,Yes
+MID30,Cust3,Yes
+MID30,Cust4,Yes
+MID30,Cust14,No

@@ -1,0 +1,4 @@
+CID1,Name C1,Surname C1,Turin,Italy
+CID2,Name C2,Surname C2,Turin,Italy
+CID3,Name C3,Surname C3,Rome,Italy
+CID4,Name C4,Surname C4,Paris,France

@@ -1,0 +1,5 @@
+UID1,Name1,Surname1,1980/01/01,Business
+UID2,Name2,Surname2,1980/02/01,OtherBP
+UID3,Name3,Surname3,1980/03/01,Business
+UID4,Name4,Surname4,1980/04/01,Business
+UID5,Name5,Surname5,1980/05/01,OtherBP
